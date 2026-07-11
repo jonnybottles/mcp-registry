@@ -14,7 +14,7 @@ about:
 source:
   project: https://github.com/sooperset/mcp-atlassian
   branch: main
-  commit: 35b1da00c920810e7d4119cdd9fcc5b46eec5b0e
+  commit: 9336b8d75b4e0c0ab1b804179188a3113c00c3e3
 config:
   description: The MCP server is allowed to access these paths
   secrets:
